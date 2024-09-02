@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes 1/leaderboard.unity
     guid: 45d3fcf3fd89c234a8b95d0bc13ff331
+  - enabled: 1
+    path: Assets/Scenes 1/postJam.unity
+    guid: 641b375f9749ce84d9b1fb3d0006d25f
+  - enabled: 1
+    path: Assets/Scenes 1/leaderboard1.unity
+    guid: 7117bea651911294d83e3f98a1ed5983
+  - enabled: 1
+    path: Assets/Scenes 1/credits.unity
+    guid: 1d46fdfee272e274fad384a0083c1356
   m_configObjects: {}
